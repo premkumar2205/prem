@@ -1,5 +1,4 @@
-import java.util.Scanner;  
-import java.lang.Math;  
+import java.util.Scanner;    
 import java.io.printer;
 import java.io.outputprinter; 
 import java.io.collection; 
